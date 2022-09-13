@@ -7,4 +7,7 @@ public class Test {
     public void masterChangeTitle(){
         System.out.println("MasterChange");
     }
+    public void changeTitle(){
+        System.out.println("更改主题");
+    }
 }
